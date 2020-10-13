@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "cryptoauthlib.h": "c",
+        "atca_hal.h": "c",
+        "esp_system.h": "c",
+        "sdkconfig.h": "c",
+        "debug.h": "c",
+        "atca_mbedtls_wrap.h": "c",
+        "mqtt_client.h": "c",
+        "esp_tls.h": "c",
+        "wifi_manager.h": "c",
+        "sstream": "c",
+        "wifitask.h": "c",
+        "rtconfig.h": "c",
+        "cert_chain.h": "c",
+        "network_platform.h": "c",
+        "tng_atcacert_client.h": "c",
+        "aws_iot_config.h": "c"
+    }
+}

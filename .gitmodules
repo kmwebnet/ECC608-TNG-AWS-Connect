@@ -1,0 +1,6 @@
+[submodule "components/cryptoauthlib/cryptoauthlib"]
+	path = components/cryptoauthlib/cryptoauthlib
+	url = https://github.com/MicrochipTech/cryptoauthlib.git
+[submodule "components/esp-aws-iot/aws-iot-device-sdk-embedded-C"]
+	path = components/esp-aws-iot/aws-iot-device-sdk-embedded-C
+	url = https://github.com/espressif/aws-iot-device-sdk-embedded-C.git
